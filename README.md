@@ -1,4 +1,13 @@
-# Resources for interview preparations (Front End).
+<div align="center">
+  <img height="60" src="https://raw.githubusercontent.com/devAbhijeet/devAbhijeet/master/assets/javascript.svg"> 
+  <h1>Interview questions for front end</h1>
+</div>
+<span>
+Resources for interview preparations (Front End).
+
+<br/>
+<br/>
+</span>
 
 ### Q&A format
 
